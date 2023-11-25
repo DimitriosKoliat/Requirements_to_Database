@@ -1,2 +1,2 @@
-# *.sql files are considered SQL code
+
 *.sql linguist-language=SQL
