@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to translate specified requirements into a fully functional MySQL database. The process involves converting the requirements into an Entity-Relationship (ER) diagram, then further refining it into a database schema. Finally, we implement the schema into a MySQL database. The project emphasizes the importance of normalization for efficient data organization.
+This project aims to convert specified requirements into a fully functional MySQL database. The process involves converting the requirements into an Entity-Relationship (ER) diagram, then further refining it into a database schema. Finally, we implement the schema into a MySQL database. The project emphasizes the importance of normalization for efficient data organization.
 
 ## Tools
 
